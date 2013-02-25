@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "astar.cs", "astar.cs.csproj", "{BF21B9A4-56E9-4109-9C2B-BDA6104DF659}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grid2D", "Examples\Grid2D\Grid2D.csproj", "{8176A8E9-0EBE-4D09-A021-29F25C2F69E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquarePuzzle", "Examples\SquarePuzzle\SquarePuzzle.csproj", "{44A55E83-D9B9-4B31-8EF0-DA4334906B60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF21B9A4-56E9-4109-9C2B-BDA6104DF659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF21B9A4-56E9-4109-9C2B-BDA6104DF659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF21B9A4-56E9-4109-9C2B-BDA6104DF659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF21B9A4-56E9-4109-9C2B-BDA6104DF659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8176A8E9-0EBE-4D09-A021-29F25C2F69E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8176A8E9-0EBE-4D09-A021-29F25C2F69E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8176A8E9-0EBE-4D09-A021-29F25C2F69E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8176A8E9-0EBE-4D09-A021-29F25C2F69E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44A55E83-D9B9-4B31-8EF0-DA4334906B60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A55E83-D9B9-4B31-8EF0-DA4334906B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44A55E83-D9B9-4B31-8EF0-DA4334906B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44A55E83-D9B9-4B31-8EF0-DA4334906B60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
