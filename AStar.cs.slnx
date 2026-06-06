@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Examples/">
+    <Project Path="Examples/Grid2D/Grid2D.csproj" />
+    <Project Path="Examples/SquarePuzzle/SquarePuzzle.csproj" />
+  </Folder>
+  <Project Path="AStar/AStar.csproj" />
+</Solution>
